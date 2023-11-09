@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+This video is a great intro to who we are!
 
-```{r}
-1 + 1
-```
+{{< video https://www.youtube.com/embed/C4Go8dsQch0 >}}
