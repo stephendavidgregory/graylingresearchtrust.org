@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to the Grayling Research Trust website.\nTest"
+    "text": "Welcome to the Grayling Research Trust website.\n\n\n\nSome publications"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the GRT",
     "section": "",
     "text": "This video is a great intro to who we are!"
+  },
+  {
+    "objectID": "about.html#our-trustees",
+    "href": "about.html#our-trustees",
+    "title": "About the GRT",
+    "section": "Our trustees",
+    "text": "Our trustees\n\nRichard Cove (chair)\nJohn Dart (secretary)\nDavid Mee (treasurer)\nJonathan Bolland\nPaul Coulson\nRoss Gardiner\nStephen Gregory\nMartyn Lucas\nSteven Weiss"
   }
 ]

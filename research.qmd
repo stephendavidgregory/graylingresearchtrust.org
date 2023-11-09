@@ -1,0 +1,6 @@
+---
+title: "GRT research"
+---
+
+![Some research](images/research.png)
+

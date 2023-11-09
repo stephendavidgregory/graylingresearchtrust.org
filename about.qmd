@@ -1,7 +1,20 @@
 ---
-title: "About"
+title: "About the GRT"
 ---
 
 This video is a great intro to who we are!
 
 {{< video https://www.youtube.com/embed/C4Go8dsQch0 >}}
+
+
+## Our trustees
+
+- Richard Cove (chair)
+- John Dart (secretary)
+- David Mee (treasurer)
+- Jonathan Bolland
+- Paul Coulson
+- Ross Gardiner
+- Stephen Gregory
+- Martyn Lucas
+- Steven Weiss

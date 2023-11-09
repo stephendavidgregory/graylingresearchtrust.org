@@ -4,4 +4,4 @@ title: "Welcome"
 
 Welcome to the Grayling Research Trust website.
 
-Test
+![Some publications](images/publications.png)

@@ -4,15 +4,17 @@ project:
 
 website:
   title: "Grayling Research Trust"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer: "The Grayling Research Trust is a Charity Registered in England No: 1043994."
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: true
 
