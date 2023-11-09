@@ -8,8 +8,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: research.qmd
+        text: research
   page-footer: "The Grayling Research Trust is a Charity Registered in England No: 1043994."
 
 format:
